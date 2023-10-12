@@ -17,7 +17,7 @@ The Real taxi app requires development of a scalable server/cloud side storage a
 Clone the flutterbase taxi application source code repository:
 
 ```
-git clone https://github.com/YakivGalkin/flutterbase-taxi
+git clone https://github.com/dandytopstar/taxiApp-Flutter.git
 cd flutterbase-taxi
 ```
 
